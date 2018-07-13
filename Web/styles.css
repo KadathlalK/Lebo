@@ -1,0 +1,40 @@
+h1{
+  color: red;
+}
+
+.jumbotron{
+min-height: 600px;
+background-image: url('image.jpg');
+background-size: cover;
+background-attachment: fixed;
+}
+h3 {
+color : black;
+text-emphasis-color: black;
+text-align: center;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+    color: red;
+    text-align: center;
+}
+#social-buttons button {
+  color: white;
+}
+.btn-twitter {
+  background-color: #00acee;o
+  border-color: #009ad5;
+}
+.btn-facebook {
+  background-color: #4868ac;
+  border-color: #314776;
+}
+.btn-pinterest {
+  background-color: #b62f26;
+  border-color: #b62f26;
+}
